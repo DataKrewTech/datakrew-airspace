@@ -41,6 +41,15 @@ link = "plugins/google-map/gmap.js"
   
 ############################## navigation ###############################
 
+  
+  # flip text
+  [[params.banner.flipText]]
+  title   = "DESIGNER"
+  [[params.banner.flipText]]
+  title   = "DEVELOPER"
+  [[params.banner.flipText]]
+  title   = "FATHER"
+
 # main menu
 [[menu.main]]
 name = "About"
